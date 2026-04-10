@@ -1,4 +1,4 @@
-📘 ## Polimata
+# 📘 Polimata
 
 <img width="1336" height="601" alt="Captura de tela 2026-04-10 153855" src="https://github.com/user-attachments/assets/4d8d83a7-51f4-480b-b541-4a1150ddfbb2" />
 
@@ -7,7 +7,7 @@ Become a modern polymath. Explore, connect and master knowledge across disciplin
 
 Polimata é uma plataforma focada na exploração e organização do conhecimento, pensada para pessoas que querem aprender de forma ampla, conectando diferentes áreas e desenvolvendo uma visão mais completa do mundo.
 
-🧠 Sobre o projeto
+# 🧠 Sobre o projeto
 
 O objetivo do Polimata é criar uma experiência onde o conhecimento não é isolado, mas sim interligado.
 
@@ -21,12 +21,13 @@ A ideia central é simples:
 
 Conhecimento não deve ser fragmentado — ele deve ser integrado.
 
-🚀 Funcionalidades
-🌍 Exploração de temas e áreas do conhecimento
-🔗 Navegação entre conteúdos relacionados
-🧭 Estrutura pensada para aprendizado contínuo
-⚡ Interface moderna com foco em experiência do usuário
-🎯 Objetivo
+# 🚀 Funcionalidades <br>
+🌍 Exploração de temas e áreas do conhecimento <br>
+🔗 Navegação entre conteúdos relacionados <br>
+🧭 Estrutura pensada para aprendizado contínuo <br>
+⚡ Interface moderna com foco em experiência do usuário <br>
+
+# 🎯 Objetivo
 
 Criar uma ferramenta que ajude o usuário a:
 
@@ -44,6 +45,6 @@ TypeScript
 Tailwind CSS
 Vercel (deploy)
 
-🌐 Acesse o projeto
+# 🌐 Acesse o projeto
 
-👉 https://polimata-9mii4rh0q-pedros-projects-da4f1691.vercel.app/world
+# 👉 https://polimata-9mii4rh0q-pedros-projects-da4f1691.vercel.app/world

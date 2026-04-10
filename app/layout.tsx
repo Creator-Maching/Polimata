@@ -32,16 +32,39 @@ export default function RootLayout({
         `}
       >
         
-        <header className="bg-gray-200 p-5 flex items-center justify-center">
-          <Image src="/images/coffeIcon.png" alt="Coffe" width={200} height={200} />
-          <h1 className="text-5xl font-bold text-center m-3 p-3">
+        <header className="
+          bg-gray-200 
+          p-4
+          flex 
+          flex-col 
+          md:flex-row 
+          items-center 
+          justify-center 
+          text-center
+        ">
+          
+          <Image 
+            src="/images/coffeIcon.png" 
+            alt="Coffe" 
+            width={120} 
+            height={120}
+            className="mb-2 md:mb-0 md:mr-4"
+          />
+
+          <h1 className="
+            text-2xl 
+            sm:text-3xl 
+            md:text-5xl 
+            font-bold
+          ">
             Acervo do Polimata
           </h1>
+
         </header>
 
         <Nav />
 
-        <main className="flex-1">
+        <main className="flex-1 px-4 sm:px-6 md:px-10">
           {children}
         </main>
 

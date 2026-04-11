@@ -35,15 +35,16 @@ aprender de forma mais eficiente
 conectar ideias de diferentes áreas
 desenvolver pensamento crítico
 se tornar um verdadeiro polímata moderno
-🛠️ Tecnologias
+
+# 🛠️ Tecnologias
 
 Este projeto foi construído com tecnologias modernas do ecossistema web:
 
-Next.js
-React
-TypeScript
-Tailwind CSS
-Vercel (deploy)
+Next.js <br>
+React <br>
+TypeScript <br>
+Tailwind CSS <br>
+Vercel (deploy) <br>
 
 # 🌐 Acesse o projeto
 
